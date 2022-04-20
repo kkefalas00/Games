@@ -1,0 +1,43 @@
+#test{
+	
+	text-align:center;
+	color:black;
+	margin:10px;
+	
+}
+
+#tt1{
+	
+	color:black;
+	font-weight:bold;
+	font-size:12pt;
+	
+}
+
+
+#bt{
+	
+	height:50px;
+	width:80px;
+	color:black;
+	margin:10px;
+	border:3px solid black;
+	display:none;
+}
+
+.tds{
+	width:250px;
+	height:40px;
+	
+}
+
+#r1{
+color:black;
+	
+}
+body {
+ background-image: url("../images/1.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+  background-attachment: fixed;
+}
