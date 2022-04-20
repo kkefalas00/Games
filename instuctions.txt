@@ -1,0 +1,1 @@
+You can download the favicon library in order to have a better view of the codes. In case you don't have the fav library you will not be able to play the games in an appropriate way. I didn't upload the fav library because github has a problem to render these files.
